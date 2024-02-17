@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Images/blue_icon.png</file>
+    <file>Images/book.svg</file>
+    <file>Images/book_logo.png</file>
+    <file>Images/home.svg</file>
+    <file>Images/loader.svg</file>
+    <file>Images/logo 2.0.png</file>
+    <file>Images/logo.ico</file>
+    <file>Images/pause.svg</file>
+    <file>Images/pause-circle.svg</file>
+    <file>Images/play.svg</file>
+    <file>Images/play-circle.svg</file>
+    <file>Images/search.svg</file>
+    <file>Images/sliders.svg</file>
+    <file>Images/stop-circle.svg</file>
+  </qresource>
+</RCC>
